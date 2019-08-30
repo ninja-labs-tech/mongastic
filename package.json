@@ -1,0 +1,28 @@
+{
+  "name": "mongastic",
+  "version": "0.1.0",
+  "description": "This library is meant to be used as a synchronization tool between mongodb and elasticsearch",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon",
+    "debug": "nodemon --inspect",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ninja-labs-tech/mongastic.git"
+  },
+  "keywords": [
+    "mongodb",
+    "elasticsearch",
+    "synchronization",
+    "sync",
+    "mongo"
+  ],
+  "author": "Ninja Labs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ninja-labs-tech/mongastic/issues"
+  },
+  "homepage": "https://github.com/ninja-labs-tech/mongastic#readme"
+}
