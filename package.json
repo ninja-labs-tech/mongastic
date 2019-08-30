@@ -1,5 +1,5 @@
 {
-  "name": "mongastic",
+  "name": "mongostic",
   "version": "0.1.0",
   "description": "This library is meant to be used as a synchronization tool between mongodb and elasticsearch",
   "main": "index.js",
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ninja-labs-tech/mongastic.git"
+    "url": "git+https://github.com/ninja-labs-tech/mongostic.git"
   },
   "keywords": [
     "mongodb",
@@ -28,9 +28,9 @@
   "author": "Ninja Labs",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ninja-labs-tech/mongastic/issues"
+    "url": "https://github.com/ninja-labs-tech/mongostic/issues"
   },
-  "homepage": "https://github.com/ninja-labs-tech/mongastic#readme",
+  "homepage": "https://github.com/ninja-labs-tech/mongostic#readme",
   "devDependencies": {
     "eslint": "^6.1.0",
     "eslint-config-airbnb-base": "^14.0.0",
