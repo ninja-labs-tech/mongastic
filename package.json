@@ -43,7 +43,7 @@
   },
   "dependencies": {
     "debug": "^4.1.1",
-    "elasticsearch": "^16.3.0",
+    "elasticsearch": "^16.5.0",
     "mongodb": "^3.3.2"
   }
 }
